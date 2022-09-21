@@ -26,7 +26,7 @@ HTML/CSS/JS Powtórzenie
 
 
 ### --------Links
-https://prod.liveshare.vsengsaas.visualstudio.com/join?8B8E1C08207E0531C2F3B5E482DB6DBF9979
+https://prod.liveshare.vsengsaas.visualstudio.com/join?6B1E1409EE16422D50EEA7E61A4AFFE13D37
 
 https://github.com/Technikum-Lotnicze-ZDZ-Katowice/PITS403-WebdevRecap
 
