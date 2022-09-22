@@ -35,6 +35,8 @@ ZADANIE404_02. Rozwiń twórczo koncept animowanego sześcianu. Zmodyfikuj istni
 - multiplikacja (kostka w kostce)
 - explode
 - glow
+
+ZASTRZEŻENIE: zachować obecne nazewnictwo klas i id obiektów.
 ```
 
 ### --------Links
