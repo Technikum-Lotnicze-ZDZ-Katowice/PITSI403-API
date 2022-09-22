@@ -28,6 +28,13 @@ HTML/CSS/JS Powtórzenie
 
 ```
 ZADANIE404_01. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
+
+ZADANIE404_02. Rozwiń twórczo koncept animowanego sześcianu. Zmodyfikuj istniejącą animację CSS w następujących obszarach:
+- interakcja
+- tekstury
+- multiplikacja (kostka w kostce)
+- explode
+- glow
 ```
 
 ### --------Links
