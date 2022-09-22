@@ -24,6 +24,11 @@ HTML/CSS/JS Powtórzenie
  ( Colors, Fonts, Icons)
  ( pseudoklasy i pseudoelementy )
 
+5. ZADANIA
+
+```
+ZADANIE404_01. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
+```
 
 ### --------Links
 https://prod.liveshare.vsengsaas.visualstudio.com/join?502453890BCF7457B99C95D2CBC8D6912CFC
