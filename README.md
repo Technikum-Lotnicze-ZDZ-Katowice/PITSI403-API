@@ -1,6 +1,7 @@
 # PITS403-WebdevRecap
 
-(Web Developer Roadmap (2025) - Everything is Changing)[https://www.youtube.com/watch?v=EzTxYQmU8OE]
+
+[Web Developer Roadmap (2025) - Everything is Changing](https://www.youtube.com/watch?v=EzTxYQmU8OE)
 
 HTML/CSS/JS Powtórzenie
 
