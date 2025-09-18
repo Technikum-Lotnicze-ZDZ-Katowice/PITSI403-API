@@ -45,6 +45,16 @@
 
 #### ZADANIE40303. Wymyśl i wykonaj aplikację uzytkową z zastosowaniem zewnętrznego API - [swapi.info](https://swapi.info/)
 
+```json
+{
+    "films": "https://swapi.info/api/films",
+    "people": "https://swapi.info/api/people",
+    "planets": "https://swapi.info/api/planets",
+    "species": "https://swapi.info/api/species",
+    "vehicles": "https://swapi.info/api/vehicles",
+    "starships": "https://swapi.info/api/starships"
+}
+```
 
 
 https://fontsinuse.com/uses/49364/star-wars-opening-crawl-and-titles
