@@ -27,7 +27,11 @@ HTML/CSS/JS Powtórzenie
  ( Colors, Fonts, Icons)
  ( pseudoklasy i pseudoelementy )
 
-5. ZADANIA
+5. Moduły JS
+
+6. FETCH, AXIOS
+
+7. ZADANIA
 
 
 #### ZADANIE40301. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
