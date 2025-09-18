@@ -3,9 +3,9 @@
 
 [Web Developer Roadmap (2025) - Everything is Changing](https://www.youtube.com/watch?v=EzTxYQmU8OE)
 
-HTML/CSS/JS Powtórzenie
+##HTML/CSS/JS Powtórzenie
 
-1. TAGS
+### 1. TAGS
 
 * html
 * head,body,meta,title
@@ -14,24 +14,24 @@ HTML/CSS/JS Powtórzenie
 * a
 * table,tr,td
 
-2. ATTRIBUTES
+### 2. ATTRIBUTES
 * lang,charset,name,content
 * colspan,rowspan
 
-3. SEMANTIC HTML5 TAGS (header, nav, article, section, aside, footer)
+### 3. SEMANTIC HTML5 TAGS (header, nav, article, section, aside, footer)
 
-4. CSS (kaskadowość, grupowanie, diedziczenie, class, id)
+### 4. CSS (kaskadowość, grupowanie, diedziczenie, class, id)
  ( float, display )
  ( BOX Model )
  ( Img, Background)
  ( Colors, Fonts, Icons)
  ( pseudoklasy i pseudoelementy )
 
-5. Moduły JS
+### 5. Moduły JS
 
-6. FETCH, AXIOS
+### 6. FETCH, AXIOS
 
-7. ZADANIA
+### 7. ZADANIA
 
 
 #### ZADANIE40301. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
