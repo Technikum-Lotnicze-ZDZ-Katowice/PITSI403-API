@@ -29,17 +29,17 @@ HTML/CSS/JS Powtórzenie
 
 5. ZADANIA
 
-```
-ZADANIE40301. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
 
-ZADANIE40302. Rozwiń twórczo koncept animowanego sześcianu. Zmodyfikuj istniejącą animację CSS w następujących obszarach:
+#### ZADANIE40301. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
+
+#### ZADANIE40302. Rozwiń twórczo koncept animowanego sześcianu. Zmodyfikuj istniejącą animację CSS w następujących obszarach:
 - interakcja
 - tekstury
 - multiplikacja (kostka w kostce)
 - explode
 - glow
 
-ZADANIE40303. Wymyśl i wykonaj aplikację uzytkową z zastosowaniem zewnętrznego API - [swapi.info](https://swapi.info/)
+#### ZADANIE40303. Wymyśl i wykonaj aplikację uzytkową z zastosowaniem zewnętrznego API - [swapi.info](https://swapi.info/)
 
 
 
