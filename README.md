@@ -37,7 +37,7 @@ export, import
 
 #### ZAD40301.
 Przygotuj trzy funkcje javascript w osobnych plikach, które wykonują trzy zadania, które można zaimportować do dowolnego skryptu:
-- dodawanie akapitu
+- dodawanie akapitu (z czarnym obramowaniem)
 - zmiana koloru tła akapitów
 - wypełnienie jednakową treścią akapitów ()
 
