@@ -41,6 +41,16 @@ Przygotuj trzy funkcje javascript w osobnych plikach, które wykonują trzy zada
 - zmiana koloru tła akapitów
 - wypełnienie jednakową treścią akapitów ()
 
+
+```
+PLIKI:
+index.html
+script.js
+dodajAkapit.js
+koloruj.js
+napisz.js
+```
+
 kod pliku html:
 
 ```html
@@ -60,15 +70,6 @@ kod pliku html:
 </html>
 ```
 
-
-```
-PLIKI:
-index.html
-script.js
-dodajAkapit.js
-koloruj.js
-napisz.js
-```
 
 #### ZAD40302. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
 
