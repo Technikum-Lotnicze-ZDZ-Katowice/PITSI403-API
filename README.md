@@ -28,11 +28,38 @@
  ( pseudoklasy i pseudoelementy )
 
 ### 5. Moduły JS
+defer, module
+export, import
 
+### 6. FETCH, AXIOS
+
+### 7. ZADANIA
+
+#### ZAD40301.
 Przygotuj trzy funkcje javascript w osobnych plikach, które wykonują trzy zadania, które można zaimportować do dowolnego skryptu:
 - dodawanie akapitu
 - zmiana koloru tła akapitów
-- wypełnienie jednakową treścią akapitów
+- wypełnienie jednakową treścią akapitów ()
+
+kod pliku html:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+  <button>Dodaj akapit</button>
+  <button>Koloruj akapity</button>
+  <button>Wypisz w akapitach</button>
+  <div id="container"></div>
+ </body>
+</html>
+```
+
 
 ```
 PLIKI:
@@ -42,13 +69,6 @@ dodajAkapit.js
 koloruj.js
 napisz.js
 ```
-
-### 6. FETCH, AXIOS
-
-### 7. ZADANIA
-
-#### ZAD40301.
-
 
 #### ZAD40302. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
 
