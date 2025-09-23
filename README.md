@@ -29,21 +29,37 @@
 
 ### 5. Moduły JS
 
+Przygotuj trzy funkcje javascript w osobnych plikach, które wykonują trzy zadania:
+- dodawanie akapitu
+- zmiana koloru tła akapitów
+- wypełnienie jednakową treścią akapitów
+
+```
+PLIKI:
+index.html
+script.js
+dodajAkapit.js
+koloruj.js
+napisz.js
+```
+
 ### 6. FETCH, AXIOS
 
 ### 7. ZADANIA
 
+#### ZAD40301.
 
-#### ZADANIE40301. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
 
-#### ZADANIE40302. Rozwiń twórczo koncept animowanego sześcianu. Zmodyfikuj istniejącą animację CSS w następujących obszarach:
+#### ZAD40302. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
+
+#### ZAD40303. Rozwiń twórczo koncept animowanego sześcianu. Zmodyfikuj istniejącą animację CSS w następujących obszarach:
 - interakcja
 - tekstury
 - multiplikacja (kostka w kostce)
 - explode
 - glow
 
-#### ZADANIE40303. Wymyśl i wykonaj aplikację uzytkową z zastosowaniem zewnętrznego API - [swapi.info](https://swapi.info/)
+#### ZAD40304. Wymyśl i wykonaj aplikację uzytkową z zastosowaniem zewnętrznego API - [swapi.info](https://swapi.info/)
 
 ```json
 {
