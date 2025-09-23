@@ -65,7 +65,7 @@ kod pliku html:
   <button>Dodaj akapit</button>
   <button>Koloruj akapity</button>
   <button>Wypisz w akapitach</button>
-  <div id="container"></div>
+  <div id="akapity"></div>
  </body>
 </html>
 ```
