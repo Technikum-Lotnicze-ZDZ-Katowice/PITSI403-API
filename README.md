@@ -28,8 +28,8 @@
  ( pseudoklasy i pseudoelementy )
 
 ### 5. Moduły JS
-defer, module
-export, import
+- defer, module, 
+- export, import
 
 ### 6. FETCH, AXIOS
 
