@@ -81,6 +81,7 @@ querySelector()
 createElement()
 appendChild()
 ```
+![module](module4.png)
 
 #### ZAD40302. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
 
