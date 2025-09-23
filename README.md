@@ -69,7 +69,15 @@ kod pliku html:
  </body>
 </html>
 ```
-
+funkje do użycia
+```
+getElementById()
+getElementsByTagName()
+querySelectorAll()
+querySelector()
+createElement()
+appendChild()
+```
 
 #### ZAD40302. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
 
