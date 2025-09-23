@@ -29,7 +29,7 @@
 
 ### 5. Moduły JS
 
-Przygotuj trzy funkcje javascript w osobnych plikach, które wykonują trzy zadania:
+Przygotuj trzy funkcje javascript w osobnych plikach, które wykonują trzy zadania, które można zaimportować do dowolnego skryptu:
 - dodawanie akapitu
 - zmiana koloru tła akapitów
 - wypełnienie jednakową treścią akapitów
