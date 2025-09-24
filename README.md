@@ -150,7 +150,7 @@ appendChild()
 
 - KRYSTIAN : github.com/
 - IGOR
-- WIKTOR : https://github.com/wiktormakel/strona-internetowa.git
+- WIKTOR : [Aplikacja Internetowa](https://github.com/wiktormakel/strona-internetowa.git)]
 - OLIWIER
 - MAKS
 
