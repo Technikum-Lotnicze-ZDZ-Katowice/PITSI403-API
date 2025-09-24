@@ -35,9 +35,11 @@
 
 ### 6. FETCH, AXIOS
 ---
-### Aplikacja uinternetowa: Quiz sprawdzający znajomość treści wprowadzeń do filmów STAR WARS.
+### Aplikacja internetowa: AW-prolog
 
-#### Wprowadzenie
+#### "Quiz sprawdzający znajomość treści prologów do filmów STAR WARS."
+
+#### Wprowadzenie 
 
 Aplikacja to quiz sprawdzający znajomość treści tekstów wprowadzeń do filmów STAR WARS. Uzytkownik będzie zgadywał z którego filmu (epizodu) pochodzi wysiwetlany tekst. Właściwy tekst będzie wyswietlany losowo (losowy wybór epizodu). Czas odgadywania będzie mierzony i będzie stanowił o wyniku gry/quizu.
 
