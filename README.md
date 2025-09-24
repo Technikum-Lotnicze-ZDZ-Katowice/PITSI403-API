@@ -148,9 +148,9 @@ appendChild()
 }
 ```
 
-- KRYSTIAN : 
+- KRYSTIAN : github.com/
 - IGOR
-- WIKTOR
+- WIKTOR : https://github.com/wiktormakel/strona-internetowa.git
 - OLIWIER
 - MAKS
 
