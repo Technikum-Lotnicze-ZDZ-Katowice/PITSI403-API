@@ -73,11 +73,6 @@ Przygotuj trzy funkcje javascript w osobnych plikach, które wykonują trzy zada
 - wypełnienie jednakową treścią akapitów ()
 
 
-KRYSTIAN
-IGOR
-WIKTOR
-OLIWIER
-MAKS
 
 ```
 PLIKI:
@@ -148,6 +143,11 @@ appendChild()
 }
 ```
 
+- KRYSTIAN
+- IGOR
+- WIKTOR
+- OLIWIER
+- MAKS
 
 https://fontsinuse.com/uses/49364/star-wars-opening-crawl-and-titles
 
