@@ -58,6 +58,10 @@ projekt
 
 atrakcyjna wizualnie forma quizu - Prolog scrolluje sie jak w oryginale z użyciem podobnego kroju czcionki, z zastosowaniem trójwymiarowego zniekształcenia.
 
+#### Technologie
+- Rest API: swapi.info
+- Javascript
+- CSS 3D
 ---
 
 ### 7. ZADANIA
