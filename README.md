@@ -82,7 +82,7 @@ dodajAkapit.js
 koloruj.js
 napisz.js
 ```
-<!-- ![Files](files.png) -->
+![Files](files.png)
 
 kod pliku html:
 
@@ -114,12 +114,12 @@ querySelector()
 createElement()
 appendChild()
 ```
-<!--
+
 ![module](module4.png)
 ![module](module3.png)
 ![module](module2.png)
 ![module](module1.png)
--->
+
 
 #### ZAD40302. Przygotuj animowany (obracający się wokół osi pionowej) sześcian.
 
