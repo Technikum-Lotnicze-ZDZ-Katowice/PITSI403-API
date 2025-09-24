@@ -105,7 +105,7 @@ kod pliku html:
  </body>
 </html>
 ```
-funkje do użycia
+funkcje do użycia
 ```
 getElementById()
 getElementsByTagName()
