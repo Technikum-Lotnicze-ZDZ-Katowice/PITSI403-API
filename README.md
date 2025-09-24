@@ -50,7 +50,9 @@ Aplikacja bedzie responsywnie zajmować cały obszar przeglądarki. Ekran podzie
 
 ![wireframe](SW-wireframe.JPG)
 
-projekt
+##### projekt
+
+![projekt](sw-projekt.JPG)
 
 #### c. Przebieg rozgrywki:
 
