@@ -48,7 +48,7 @@ Aplikacja bedzie responsywnie zajmować cały obszar przeglądarki. Ekran podzie
 
 ##### wireframe
 
-![wireframe](SW-wireframe.PNG)
+![wireframe](SW-wireframe.JPG)
 
 projekt
 
