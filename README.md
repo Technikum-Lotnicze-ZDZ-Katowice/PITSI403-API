@@ -143,7 +143,7 @@ appendChild()
 }
 ```
 
-- KRYSTIAN
+- KRYSTIAN : 
 - IGOR
 - WIKTOR
 - OLIWIER
