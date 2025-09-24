@@ -52,7 +52,7 @@ projekt
 
 #### c. Przebieg rozgrywki:
 
- Tekst począątkowo bedzie widoczny częściowo i odgadujący najszybciej zdobedą nawiecej punktów.
+ Tekst początkowo bedzie widoczny częściowo i odgadujący najszybciej zdobedą nawiecej punktów.
 
 #### d. Cechy wyróżniające
 
