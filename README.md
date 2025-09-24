@@ -43,7 +43,7 @@
 
 Aplikacja to quiz sprawdzający znajomość treści tekstów wprowadzeń do filmów STAR WARS. Uzytkownik będzie zgadywał z którego filmu (epizodu) pochodzi wysiwetlany tekst. Właściwy tekst będzie wyswietlany losowo (losowy wybór epizodu). Czas odgadywania będzie mierzony i będzie stanowił o wyniku gry/quizu.
 
-### b. Projekt graficzny
+#### b. Projekt graficzny
 Aplikacja bedzie responsywnie zajmować cały obszar przeglądarki. Ekran podzielony na trzy sekcje: tytuł z zegarem, tekst scrollowany i stopka z wyborem epizodu.
 
 wireframe
