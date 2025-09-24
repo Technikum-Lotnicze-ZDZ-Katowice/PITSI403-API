@@ -45,9 +45,18 @@ Aplikacja to quiz sprawdzający znajomość treści tekstów wprowadzeń do film
 
 ### Projekt graficzny
 Aplikacja bedzie responsywnie zajmować cały obszar przeglądarki. Ekran podzielony na trzy sekcje: tytuł z zegarem, tekst scrollowany i stopka z wyborem epizodu.
+
 wireframe
 
 projekt
+
+#### Przebieg rozgrywki:
+
+ Tekst począątkowo bedzie widoczny częściowo i odgadujący najszybciej zdobedą nawiecej punktów.
+
+#### Cechy wyróżniające
+
+atrakcyjna wizualnie forma quizu - Prolog scrolluje sie jak w oryginale z użyciem podobnego kroju czcionki, z zastosowaniem trójwymiarowego zniekształcenia.
 
 ---
 
