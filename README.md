@@ -73,6 +73,12 @@ Przygotuj trzy funkcje javascript w osobnych plikach, które wykonują trzy zada
 - wypełnienie jednakową treścią akapitów ()
 
 
+KRYSTIAN
+IGOR
+WIKTOR
+OLIWIER
+MAKS
+
 ```
 PLIKI:
 index.html
