@@ -39,26 +39,26 @@
 
 #### "Quiz sprawdzający znajomość treści prologów do filmów STAR WARS."
 
-#### Wprowadzenie 
+#### a. Wprowadzenie 
 
 Aplikacja to quiz sprawdzający znajomość treści tekstów wprowadzeń do filmów STAR WARS. Uzytkownik będzie zgadywał z którego filmu (epizodu) pochodzi wysiwetlany tekst. Właściwy tekst będzie wyswietlany losowo (losowy wybór epizodu). Czas odgadywania będzie mierzony i będzie stanowił o wyniku gry/quizu.
 
-### Projekt graficzny
+### b. Projekt graficzny
 Aplikacja bedzie responsywnie zajmować cały obszar przeglądarki. Ekran podzielony na trzy sekcje: tytuł z zegarem, tekst scrollowany i stopka z wyborem epizodu.
 
 wireframe
 
 projekt
 
-#### Przebieg rozgrywki:
+#### c. Przebieg rozgrywki:
 
  Tekst począątkowo bedzie widoczny częściowo i odgadujący najszybciej zdobedą nawiecej punktów.
 
-#### Cechy wyróżniające
+#### d. Cechy wyróżniające
 
 atrakcyjna wizualnie forma quizu - Prolog scrolluje sie jak w oryginale z użyciem podobnego kroju czcionki, z zastosowaniem trójwymiarowego zniekształcenia.
 
-#### Technologie
+#### e. Technologie
 - Rest API: swapi.info
 - Javascript
 - CSS 3D
