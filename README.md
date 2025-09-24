@@ -116,7 +116,7 @@ appendChild()
 - explode
 - glow
 
-#### ZAD40304. Wymyśl i wykonaj aplikację uzytkową z zastosowaniem zewnętrznego API - [swapi.info](https://swapi.info/)
+#### ZAD40304. Wymyśl i wykonaj aplikację uzytkową lub grę z zastosowaniem zewnętrznego API - [swapi.info](https://swapi.info/)
 
 ```json
 {
