@@ -46,7 +46,9 @@ Aplikacja to quiz sprawdzający znajomość treści tekstów wprowadzeń do film
 #### b. Projekt graficzny
 Aplikacja bedzie responsywnie zajmować cały obszar przeglądarki. Ekran podzielony na trzy sekcje: tytuł z zegarem, tekst scrollowany i stopka z wyborem epizodu.
 
-wireframe
+##### wireframe
+
+![wireframe](SW-wireframe.png)
 
 projekt
 
