@@ -98,9 +98,9 @@ kod pliku html:
 
  </head>
  <body>
-  <button>Dodaj akapit</button>
-  <button>Koloruj akapity</button>
-  <button>Wypisz w akapitach</button>
+  <button id="b1">Dodaj akapit</button>
+  <button id="b2">Koloruj akapity</button>
+  <button id="b3">Wypisz w akapitach</button>
   <div id="akapity"></div>
  </body>
 </html>
