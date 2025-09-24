@@ -66,7 +66,7 @@ dodajAkapit.js
 koloruj.js
 napisz.js
 ```
-![Files](files.png)
+<!-- ![Files](files.png) -->
 
 kod pliku html:
 
