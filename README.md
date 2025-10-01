@@ -148,7 +148,7 @@ appendChild()
 }
 ```
 
-- KRYSTIAN : github.com/
+- KRYSTIAN : [](github.com/)
 - IGOR
 - WIKTOR : [Aplikacja Internetowa](https://github.com/wiktormakel/strona-internetowa.git)]
 - OLIWIER
@@ -157,7 +157,9 @@ appendChild()
 https://fontsinuse.com/uses/49364/star-wars-opening-crawl-and-titles
 
 ZASTRZEŻENIE: zachować obecne nazewnictwo klas i id obiektów.
-```
+
+
+#### ZAD40305. Przygotuj uniwersalną funkcję javascript w osobnym module dodającą kontrolkę do formularza i zastosuj w formularzu.
 
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
