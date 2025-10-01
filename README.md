@@ -149,10 +149,10 @@ appendChild()
 ```
 
 - KRYSTIAN : [Quiz Star Wars](https://github.com/Krysiz33/quizStarWars.git)
-- IGOR
+- IGOR : [Czyste](https://github.com/IgrorrSky/Igor-readme.md/blob/main/Czyste%20repozytorium)
 - WIKTOR : [Aplikacja Internetowa](https://github.com/wiktormakel/strona-internetowa.git)]
-- OLIWIER
-- MAKS
+- OLIWIER : [Aplikacja](https://github.com/Czarodziej64/oliwieraplikacja.git)
+- MAKS : https://github.com/makssek664/strona-internetowa.git
 
 https://fontsinuse.com/uses/49364/star-wars-opening-crawl-and-titles
 
