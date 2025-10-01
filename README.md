@@ -150,7 +150,7 @@ appendChild()
 
 - KRYSTIAN : [Quiz Star Wars](https://github.com/Krysiz33/quizStarWars.git)
 - IGOR : [Czyste](https://github.com/IgrorrSky/Igor-readme.md/blob/main/Czyste%20repozytorium)
-- WIKTOR : [Aplikacja Internetowa](https://github.com/wiktormakel/strona-internetowa.git)]
+- WIKTOR : [Aplikacja Internetowa](https://github.com/wiktormakel/aplikacja-internetowa.git)]
 - OLIWIER : [Aplikacja](https://github.com/Czarodziej64/oliwieraplikacja.git)
 - MAKS : https://github.com/makssek664/strona-internetowa.git
 
