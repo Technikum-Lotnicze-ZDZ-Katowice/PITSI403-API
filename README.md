@@ -152,7 +152,8 @@ appendChild()
 - IGOR : [Czyste](https://github.com/IgrorrSky/Igor-readme.md/blob/main/Czyste%20repozytorium)
 - WIKTOR : [Aplikacja Internetowa](https://github.com/wiktormakel/aplikacja-internetowa.git)]
 - OLIWIER : [Aplikacja](https://github.com/Czarodziej64/oliwieraplikacja.git)
-- MAKS : https://github.com/makssek664/strona-internetowa.git
+- MAKS : (https://github.com/makssek664/strona-internetowa.git)
+- KUBA : (https://github.com/sliski23/star-wars.git)
 
 https://fontsinuse.com/uses/49364/star-wars-opening-crawl-and-titles
 
