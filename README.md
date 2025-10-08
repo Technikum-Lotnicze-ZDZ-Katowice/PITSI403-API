@@ -154,12 +154,12 @@ appendChild()
 }
 ```
 
-- KRYSTIAN - 4 : [Quiz Star Wars](https://github.com/Krysiz33/quizStarWars) [GIT](https://github.com/Krysiz33/quizStarWars.git)
-- IGOR - 3 : [Czyste](https://github.com/IgrorrSky/Igor-readme.md/blob/main/Czyste%20repozytorium)
-- WIKTOR - 5 : [Aplikacja Internetowa](https://github.com/wiktormakel/aplikacja-internetowa)
-- OLIWIER - 5 : [Aplikacja](https://github.com/Czarodziej64/oliwieraplikacja.git)
-- MAKS - 0 : (https://github.com/makssek664/strona-internetowa.git)
-- KUBA - 3 : (https://github.com/sliski23/star-wars.git)
+- KRYSTIAN - : [Quiz Star Wars](https://github.com/Krysiz33/quizStarWars) [GIT](https://github.com/Krysiz33/quizStarWars.git)
+- IGOR - : [Czyste](https://github.com/IgrorrSky/Igor-readme.md/blob/main/Czyste%20repozytorium)
+- WIKTOR - : [Aplikacja Internetowa](https://github.com/wiktormakel/aplikacja-internetowa)
+- OLIWIER - : [Aplikacja](https://github.com/Czarodziej64/oliwieraplikacja.git)
+- MAKS - : (https://github.com/makssek664/strona-internetowa.git)
+- KUBA - : (https://github.com/sliski23/star-wars.git)
 
 SKALA OCEN (ocena stanowi suma poniższych punktów):
 - Dokumentacja aplikacji na Github (projekt graficzny): 1p
