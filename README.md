@@ -155,12 +155,12 @@ appendChild()
 - MAKS : (https://github.com/makssek664/strona-internetowa.git)
 - KUBA : (https://github.com/sliski23/star-wars.git)
 
-SKALA OCEN:
-- Dokumentacja aplikacji na Github
-- poprawny Javascript (brak błędów)
-- oryginalna koncepcja i oryginalny UI (nie prolog)
-- Zastosowanie modułów
-- Publikacja na github pages
+SKALA OCEN (ocena stanowi suma poniższych punktów):
+- Dokumentacja aplikacji na Github: 1p
+- poprawny Javascript (brak błędów): 1p
+- oryginalna koncepcja i oryginalny UI (nie prolog): 1p
+- Zastosowanie modułów: 1p
+- Publikacja na github pages: 1p
 
 https://fontsinuse.com/uses/49364/star-wars-opening-crawl-and-titles
 
