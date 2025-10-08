@@ -160,7 +160,7 @@ SKALA OCEN (ocena stanowi suma poniższych punktów):
 - poprawny Javascript (brak błędów): 1p
 - oryginalna koncepcja i oryginalny UI (nie prolog): 1p
 - Zastosowanie modułów: 1p
-- Publikacja na github pages: 1p
+- Publikacja na github pages oraz artykół na animateria.pl/tl-games: 1p
 
 https://fontsinuse.com/uses/49364/star-wars-opening-crawl-and-titles
 
