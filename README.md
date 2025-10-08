@@ -56,7 +56,7 @@ Aplikacja bedzie responsywnie zajmować cały obszar przeglądarki. Ekran podzie
 
 #### c. Przebieg rozgrywki:
 
- Tekst początkowo bedzie widoczny częściowo i odgadujący najszybciej zdobedą nawiecej punktów.
+ Tekst początkowo bedzie widoczny częściowo i odgadujący najszybciej zdobędą najwiecej punktów.
 
 #### d. Cechy wyróżniające
 
