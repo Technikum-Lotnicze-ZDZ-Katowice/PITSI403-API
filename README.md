@@ -155,6 +155,13 @@ appendChild()
 - MAKS : (https://github.com/makssek664/strona-internetowa.git)
 - KUBA : (https://github.com/sliski23/star-wars.git)
 
+SKALA OCEN:
+- Dokumentacja aplikacji na Github
+- poprawny Javascript (brak błędów)
+- oryginalna koncepcja i oryginalny UI (nie prolog)
+- Zastosowanie modułów
+- Publikacja na github pages
+
 https://fontsinuse.com/uses/49364/star-wars-opening-crawl-and-titles
 
 ZASTRZEŻENIE: zachować obecne nazewnictwo klas i id obiektów.
