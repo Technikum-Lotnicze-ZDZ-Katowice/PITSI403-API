@@ -162,7 +162,7 @@ appendChild()
 - KUBA - 3 : (https://github.com/sliski23/star-wars.git)
 
 SKALA OCEN (ocena stanowi suma poniższych punktów):
-- Dokumentacja aplikacji na Github: 1p
+- Dokumentacja aplikacji na Github (projekt graficzny): 1p
 - poprawny Javascript (brak błędów): 1p
 - oryginalna koncepcja i oryginalny UI (nie prolog): 1p
 - Zastosowanie modułów: 1p
