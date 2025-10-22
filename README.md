@@ -36,7 +36,7 @@
 - Promises
 - Async/Await
 
-### 6. FETCH, AXIOS
+### 7. FETCH, AXIOS
 ```js
 fetch("https://swapi.info/api/people/1")
   .then((res) => res.json())
