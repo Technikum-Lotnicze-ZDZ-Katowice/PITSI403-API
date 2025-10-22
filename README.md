@@ -31,7 +31,10 @@
 - defer, module, 
 - export, import
 
-
+### 6. ASYNC
+- Callbacks
+- Promises
+- Async/Await
 
 ### 6. FETCH, AXIOS
 ```js
