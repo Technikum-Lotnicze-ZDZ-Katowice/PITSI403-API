@@ -193,6 +193,12 @@ Hello Roman https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
 Overment https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg
 
 
+ASYNC / AWAIT
+
+https://www.youtube.com/watch?v=PoRJizFvM7s
+
+https://www.youtube.com/watch?v=vn3tm0quoqE
+
 -------------------------------------
 
 DevEd - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q 
